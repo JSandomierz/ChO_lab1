@@ -1,4 +1,4 @@
-package ChO_lab1;
+package ChO_lab1.src;
 
 public class HelloWorld {
     public static void main(String[] args) {
